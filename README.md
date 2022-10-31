@@ -1,7 +1,7 @@
 # BarrasDesigns
 Presentación Barras Designs
 <h1 align="center">Hola 👋, Somos Barras Designs</h1>
-<h3 align="center">Una empresa dedicada a brindar servicios de marketing, desarrollo web, voz en off y personalización de artículos</h3>
+<h2 align="center">Una empresa dedicada a brindar servicios de marketing, desarrollo web, voz en off y personalización de artículos</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobarv&label=Profile%20views&color=0e75b6&style=flat" alt="jobarv" /> </p>
 
@@ -15,7 +15,7 @@ Presentación Barras Designs
 </p>
 
 
-<h2>En Barras Designs hacemos desarrollos web con la personalidad de tu empresa o negocio, personalizamos cada detalle.</h2>
+<h3>En Barras Designs hacemos desarrollos web con la personalidad de tu empresa o negocio, nos encargamos de cada detalle hasta que te encante.</h3>
 <img src="./gifDEMO.gif" alt="gifdemo" height="480" width="640" />
 
 <h3 align="left">Tecnologías:</h3>
